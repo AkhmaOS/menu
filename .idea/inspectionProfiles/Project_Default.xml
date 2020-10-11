@@ -1,0 +1,61 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="38">
+            <item index="0" class="java.lang.String" itemvalue="django" />
+            <item index="1" class="java.lang.String" itemvalue="python-barcode" />
+            <item index="2" class="java.lang.String" itemvalue="geopy" />
+            <item index="3" class="java.lang.String" itemvalue="django-rest-auth" />
+            <item index="4" class="java.lang.String" itemvalue="django-ckeditor" />
+            <item index="5" class="java.lang.String" itemvalue="django-bulk-update" />
+            <item index="6" class="java.lang.String" itemvalue="isodate" />
+            <item index="7" class="java.lang.String" itemvalue="qrcode" />
+            <item index="8" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="9" class="java.lang.String" itemvalue="channel" />
+            <item index="10" class="java.lang.String" itemvalue="django-service-objects" />
+            <item index="11" class="java.lang.String" itemvalue="sorl-thumbnail" />
+            <item index="12" class="java.lang.String" itemvalue="django_filter" />
+            <item index="13" class="java.lang.String" itemvalue="django-extensions" />
+            <item index="14" class="java.lang.String" itemvalue="celery" />
+            <item index="15" class="java.lang.String" itemvalue="drf-nested-routers" />
+            <item index="16" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="17" class="java.lang.String" itemvalue="django-admin-tools" />
+            <item index="18" class="java.lang.String" itemvalue="asgiref" />
+            <item index="19" class="java.lang.String" itemvalue="django-rest-swagger" />
+            <item index="20" class="java.lang.String" itemvalue="sorl-thumbnail-serializer-field" />
+            <item index="21" class="java.lang.String" itemvalue="pdfkit" />
+            <item index="22" class="java.lang.String" itemvalue="xlsxwriter" />
+            <item index="23" class="java.lang.String" itemvalue="channels_redis" />
+            <item index="24" class="java.lang.String" itemvalue="docxtpl" />
+            <item index="25" class="java.lang.String" itemvalue="asgi_redis" />
+            <item index="26" class="java.lang.String" itemvalue="geoip2" />
+            <item index="27" class="java.lang.String" itemvalue="Pillow" />
+            <item index="28" class="java.lang.String" itemvalue="django-debug-toolbar" />
+            <item index="29" class="java.lang.String" itemvalue="django-filter" />
+            <item index="30" class="java.lang.String" itemvalue="numpy" />
+            <item index="31" class="java.lang.String" itemvalue="concurrent-log-handler" />
+            <item index="32" class="java.lang.String" itemvalue="requests" />
+            <item index="33" class="java.lang.String" itemvalue="redis" />
+            <item index="34" class="java.lang.String" itemvalue="requests-cache" />
+            <item index="35" class="java.lang.String" itemvalue="mysqlclient" />
+            <item index="36" class="java.lang.String" itemvalue="drf_yasg" />
+            <item index="37" class="java.lang.String" itemvalue="channels" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
